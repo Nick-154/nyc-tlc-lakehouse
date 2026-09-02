@@ -1,0 +1,13 @@
+.venv/
+data/
+logs/
+*.db
+*.duckdb
+*.cfg
+*.pid
+airflow-webserver.*
+simple_auth_manager_passwords.json.generated
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
